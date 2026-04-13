@@ -92,8 +92,9 @@ calculated engagement rates, and ran aggregations.
 6. Run the full pipeline:
 
         python pipeline.py
-
 ## Author
+
+**Bafana Zwane**
 
 Built as part of the Witle Academy Data Engineering Bootcamp — Week 1
 Mini Project.
